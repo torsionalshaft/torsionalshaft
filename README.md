@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @torsionalshaft
+- 👋 Hi, I’m vaseem
 - 👀 I’m interested in Mechanics
-- 🌱 I’m currently learning Strength of Mechanics
+- 🌱 I’m currently learning Strength of Materials
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me ifooogoiii@gmail.com
 - 😄 Pronouns: he
